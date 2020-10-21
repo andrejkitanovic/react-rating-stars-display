@@ -1,9 +1,15 @@
 {
-    "name": "react-rating-stars-display",
-    "version": "0.1.0",
+    "name": "react-stars-display",
+    "version": "0.1.22",
     "description": "",
-    "main": "./lib/YOUR_COMPONENT.js",
+    "main": "./lib/Stars.js",
     "license": "MIT",
+    "keywords":[
+        "stars",
+        "react-stars",
+        "rating",
+        "fractioned-star"
+    ],
     "scripts": {
         "build": "webpack"
     },

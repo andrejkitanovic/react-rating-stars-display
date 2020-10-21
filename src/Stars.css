@@ -6,11 +6,10 @@
 .Stars::before {
   content: '★★★★★';
   font-size: var(--size);
-  margin-bottom: 2px;
-  letter-spacing: 2px;
+  letter-spacing: var(--spacing);
   background: linear-gradient(
     90deg,
-    #ea9c46 var(--percent),
+    var(--fill) var(--percent),
     #e6e9ed var(--percent)
   );
   -webkit-background-clip: text;
