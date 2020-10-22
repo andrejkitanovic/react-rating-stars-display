@@ -4,6 +4,12 @@
     "description": "",
     "main": "./lib/Stars.js",
     "license": "MIT",
+    "author":{
+        "name" : "Andrej Kitanovic",
+        "email" : "kitanovicandrej213@gmail.com",
+        "url" : "https://github.com/andrejkitanovic"
+    },
+    "homepage": "https://github.com/andrejkitanovic/react-rating-stars-display",
     "keywords":[
         "stars",
         "react-stars",
